@@ -70,24 +70,24 @@ C4582C50B616BCEA9078B47D6ACC7316B56B3157 Azaiel old key
 428836525A2B0D53B8F97ABDDBF573D69DE9F4B5 Keegan Milsten (Old)
 DB1CC7C341382E070279E7DAA68B7FA972447061 Keegan Milsten (new)
 ```
-
+<br><br>
 This corresponds to Azaiel's old pgp key. Since it was never used, it is revoked:
 
 **C4582C50B616BCEA9078B47D6ACC7316B56B3157:4: Azaiel (Old)** --> Revoked.
 
-
+<br><br>
 This corresponds to Shiva's old pgp key. Since it was never used, it is revoked:
 
 **916455D2C5A3F27F2280A5AC55D64E0D48DE87B0 Shivana (Old)** --> Revoked.
 
-
+<br><br>
 This corresponds to Keegan Milsten (Old) pgp key (revoked):
 
 **428836525A2B0D53B8F97ABDDBF573D69DE9F4B5**
 
-
+<br><br>
 This corresponds to Keegan Milsten (new) pgp key (revoked):
 
 **DB1CC7C341382E070279E7DAA68B7FA972447061**
-
+<br><br>
 **End note from Rafael**
