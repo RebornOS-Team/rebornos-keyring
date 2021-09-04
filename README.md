@@ -9,7 +9,7 @@ keys located at: **/usr/share/pacman/keyrings/**
 How to clone this repo:
 
 ```
-git clone https://gitlab.com/rebornos-team/rebornos-special-system-files/rebornos-keyring.git
+git clone https://github.com/RebornOS-Developers/rebornos-keyring.git
 ```
 
 <br>
