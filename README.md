@@ -9,7 +9,7 @@ keys located at: **/usr/share/pacman/keyrings/**
 How to clone this repo:
 
 ```
-git clone https://github.com/RebornOS-Developers/rebornos-keyring.git
+git clone https://gitlab.com/rebornos-team/rebornos-special-system-files/rebornos-keyring.git
 ```
 
 <br>
@@ -21,6 +21,7 @@ git clone https://github.com/RebornOS-Developers/rebornos-keyring.git
 2DD26266ABFEDBE49E7B7D330218E21BB4BC1E95:4: shivanandvp (new)
 634862E57AB72263FB556DC92A54E5AA978177B3:4: Cookie Alice
 38D3F838D6A0A3AB32DDDF2299EABCFB664B3E5F:4: SoulHarsh007
+E1F82735113AB192AA3DE1B1BF0740F967BA439D:4: Panda
 ```
 
 <br>
@@ -70,24 +71,21 @@ C4582C50B616BCEA9078B47D6ACC7316B56B3157 Azaiel old key
 428836525A2B0D53B8F97ABDDBF573D69DE9F4B5 Keegan Milsten (Old)
 DB1CC7C341382E070279E7DAA68B7FA972447061 Keegan Milsten (new)
 ```
-<br><br>
+
 This corresponds to Azaiel's old pgp key. Since it was never used, it is revoked:
 
-**C4582C50B616BCEA9078B47D6ACC7316B56B3157:4: Azaiel (Old)** --> Revoked.
+C4582C50B616BCEA9078B47D6ACC7316B56B3157:4: Azaiel (Old) --> Revoked.
 
-<br><br>
 This corresponds to Shiva's old pgp key. Since it was never used, it is revoked:
 
-**916455D2C5A3F27F2280A5AC55D64E0D48DE87B0 Shivana (Old)** --> Revoked.
+916455D2C5A3F27F2280A5AC55D64E0D48DE87B0 Shivana (Old) --> Revoked.
 
-<br><br>
 This corresponds to Keegan Milsten (Old) pgp key (revoked):
 
-**428836525A2B0D53B8F97ABDDBF573D69DE9F4B5**
+428836525A2B0D53B8F97ABDDBF573D69DE9F4B5
 
-<br><br>
 This corresponds to Keegan Milsten (new) pgp key (revoked):
 
-**DB1CC7C341382E070279E7DAA68B7FA972447061**
-<br><br>
+DB1CC7C341382E070279E7DAA68B7FA972447061
+
 **End note from Rafael**
