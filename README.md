@@ -1,6 +1,6 @@
 # rebornos-keyring
 
-**Note from Rafael:**
+**Note from Panda:**
 
 keys located at: **/usr/share/pacman/keyrings/**
 
@@ -18,8 +18,8 @@ git clone https://github.com/RebornOS-Developers/rebornos-keyring.git
 ```
 2F6D8657D79199892002E6465F819C731E28BDAE:4: Rafael Costa Rega
 0311C418E0EC1E68B69AA32A4833909AF8E40823:4: Azaiel (New)
-2DD26266ABFEDBE49E7B7D330218E21BB4BC1E95:4: shivanandvp (new)
-634862E57AB72263FB556DC92A54E5AA978177B3:4: Cookie Alice
+6780AFF06E8C89AF2B3D44EE90465D24C5B3C731:4: shivanandvp (new)
+90448C0D9BB450F621AC3C0A00BA168E4F4D2965:4: Cookie Alice (new)
 38D3F838D6A0A3AB32DDDF2299EABCFB664B3E5F:4: SoulHarsh007
 E1F82735113AB192AA3DE1B1BF0740F967BA439D:4: Panda
 ```
@@ -70,6 +70,9 @@ C4582C50B616BCEA9078B47D6ACC7316B56B3157 Azaiel old key
 916455D2C5A3F27F2280A5AC55D64E0D48DE87B0 Shivana old key
 428836525A2B0D53B8F97ABDDBF573D69DE9F4B5 Keegan Milsten (Old)
 DB1CC7C341382E070279E7DAA68B7FA972447061 Keegan Milsten (new)
+634862E57AB72263FB556DC92A54E5AA978177B3 Cookie Alice (expired) 
+2DD26266ABFEDBE49E7B7D330218E21BB4BC1E95 Shiva (expired)
+
 ```
 
 This corresponds to Azaiel's old pgp key. Since it was never used, it is revoked:
@@ -88,4 +91,12 @@ This corresponds to Keegan Milsten (new) pgp key (revoked):
 
 DB1CC7C341382E070279E7DAA68B7FA972447061
 
-**End note from Rafael**
+This corresponds to Cookie Alice (expired) pgp key (revoked):
+
+634862E57AB72263FB556DC92A54E5AA978177B3
+
+This corresponds to Shiva (expired) pgp key (revoked):
+
+2DD26266ABFEDBE49E7B7D330218E21BB4BC1E95
+
+**End note from Panda**

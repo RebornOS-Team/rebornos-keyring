@@ -1,15 +1,14 @@
 # Based on the file created for Arch Linux by:
 # Pierre Schmitz <pierre@archlinux.de>
 
-# Maintainer : Keegan Milsten <rebornos@protonmail.com>
-# Maintainer : Rafael Costa Rega <rcostarega@gmail.com>
+# Maintainer : Panda <panda@rebornos.org>
 
 pkgname=rebornos-keyring
-pkgver=20220425
+pkgver=20230219
 pkgrel=1
 pkgdesc='RebornOS PGP keyring'
 arch=('any')
-url='https://gitlab.com/rebornos-team/rebornos-special-system-files/rebornos-keyring'
+url='https://github.com/RebornOS-Developers/rebornos-keyring'
 license=('GPL')
 install="${pkgname}.install"
 source=('Makefile'
@@ -17,9 +16,9 @@ source=('Makefile'
         'rebornos-revoked'
         'rebornos-trusted')
 sha256sums=('947b8c2adb7bf76150f9bb686feb2135ecbbb57d0df7dc5a5a6ccfe0399e3a17'
-            'df8b9355348db576c18c72352fea8e66061fff8fb82a03b401dba102e0e9713c'
-            '44962ec2e8bf3666bbda99e525676f7545af93148d7367ac4eb5d85009e0b525'
-            '0d89102f0b5977810f2656651d82dd2db3c815e3162083f26bb5015b266b903f')
+            '1d828de001b5ce01033a06a9b6790f977a4ff002fc74bde0188b6ce12ad71a11'
+            'd3a21399e86c20796ddafc55b1916674c415b1d935937c129b3eb62ba1fb56aa'
+            '0e8fb55658872f3e3c78e5e4bb076972dd1a8775e42051155eaf34deaebc5836')
 
 pkgver() {
     date +%Y%m%d
