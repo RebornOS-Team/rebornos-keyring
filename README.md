@@ -18,5 +18,6 @@ Keys located at: **/usr/share/pacman/keyrings/**
 2F6D8657D79199892002E6465F819C731E28BDAE - Rafael Costa Rega (Green penguin) <rcostarega@gmail.com>
 0311C418E0EC1E68B69AA32A4833909AF8E40823 - Michael Peters (PGPkey) <l0stmage@gmail.com>
 E1F82735113AB192AA3DE1B1BF0740F967BA439D - Panda <panda@rebornos.org>
-6780AFF06E8C89AF2B3D44EE90465D24C5B3C731 - Shivanandvp
+428836525A2B0D53B8F97ABDDBF573D69DE9F4B5 - Keegan Milsten <keeganmilsten@protonmail.com>
+634862E57AB72263FB556DC92A54E5AA978177B3 - CookieAlice <cookiesource@rebornos.org>
 ```
